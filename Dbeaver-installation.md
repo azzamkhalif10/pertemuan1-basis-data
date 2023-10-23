@@ -1,4 +1,4 @@
-Langkah-langkah cara mengihstall Dbeaver :
+Langkah-langkah cara menginstall Dbeaver :
 1. Download Dbeaver installer untuk windows pada : [link](https://dbeaver.io/download/)
 ![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/d215f728-7c00-45db-8467-daa38830d32b)
    
