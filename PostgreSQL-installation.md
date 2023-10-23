@@ -22,7 +22,17 @@ Langkah-langkah cara menginstall PostgreSQL :
 7. Pilih nomber port untuk server, lalu klik Next.
 ![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/2ba6482e-d660-40b7-96c9-ef626d1524c3)
 
-8.
+8.pilih
+![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/1ea5875e-1e9f-4bd9-affd-bf528233545f)
+
+9. Pastikan lokasi instalasi, jika sudah, klik Next.
+![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/a17c4cf8-504c-4be8-8bf2-b56eb54d23cb)
+
+10. Tunggu instalasi hingga selesai. Jika sudah selesai, klik Finish.
+![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/69af8069-f7dc-4e89-9d5d-1ca46a7baad5)
+![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/fd831f81-e4eb-4e1c-bc22-aff0817fda0e)
+
+12. 
 
    
 
