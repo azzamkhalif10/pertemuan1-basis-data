@@ -1,5 +1,5 @@
-Langkah-langkah cara mengihstall Dbeaver :
-1. Download Dbeaver installer untuk windows pada : [link](https://www.python.org/downloads/)
+Langkah-langkah cara menginstall Python :
+1. Download Python installer untuk windows pada : [link](https://www.python.org/downloads/)
 ![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/6632c95b-f699-4b52-8a4b-fea0392e66c3)
 
 2. Pilih "Install for all users" agar bisa digunakan oleh semua user
