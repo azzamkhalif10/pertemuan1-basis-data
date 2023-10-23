@@ -22,7 +22,7 @@ Langkah-langkah cara menginstall PostgreSQL :
 7. Pilih nomber port untuk server, lalu klik Next.
 ![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/2ba6482e-d660-40b7-96c9-ef626d1524c3)
 
-8.pilih
+8. Pilih 
 ![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/1ea5875e-1e9f-4bd9-affd-bf528233545f)
 
 9. Pastikan lokasi instalasi, jika sudah, klik Next.
@@ -32,7 +32,17 @@ Langkah-langkah cara menginstall PostgreSQL :
 ![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/69af8069-f7dc-4e89-9d5d-1ca46a7baad5)
 ![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/fd831f81-e4eb-4e1c-bc22-aff0817fda0e)
 
-12. 
+12. Buka hasil aplikasi yang telah di install dengan nama aplikasi "pgAdmin 4".
+![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/2bf96c7a-af65-4123-931d-18833105c471)
+![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/7eab8881-89ce-48cc-a00b-f362878ae1b1)
+
+13. Masukan password untuk user postgress agar dapat terkoneksi pada server.
+![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/1bebec5e-ef14-40ff-88f3-aa55238aa132)
+
+14. User Postgre siap digunakan
+![image](https://github.com/azzamkhalif10/pertemuan1-basis-data/assets/148309117/61130f72-02d8-4398-80ae-563377f30f61)
+
+
 
    
 
